@@ -8,7 +8,7 @@
   export default {
     data() {
       return {
-        targetDate: new Date('2024-12-01T00:00:00'),
+        targetDate: new Date('2024-12-01T11:00:00'),
         timeLeft: '',
         interval: null,
       };
